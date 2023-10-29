@@ -1,6 +1,11 @@
 # portifolio20231DS
 
-wireframes:
-https://www.figma.com/file/Kj3FQqvHUZZKVWlcHnFYKn/Untitled?type=design&t=RRk26ZYzKntUTEnP-6
- site
+portifólio referente as nossa atividades realizadas durante o MTEC.
+
+link wireframes(FIGMA): https://www.figma.com/file/Kj3FQqvHUZZKVWlcHnFYKn/Untitled?type=design&t=RRk26ZYzKntUTEnP-6
+
+link para o GITHUB:
+
+link para o site (GitPage):
+ 
  
