@@ -6,6 +6,5 @@ link wireframes(FIGMA): https://www.figma.com/file/Kj3FQqvHUZZKVWlcHnFYKn/Untitl
 
 link para o GITHUB:
 
-link para o site (GitPage):
  
  
